@@ -1,0 +1,7 @@
+{
+  "name": "MyApp(Beta)",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
